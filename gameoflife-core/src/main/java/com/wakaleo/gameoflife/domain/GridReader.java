@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class GridReader {
-
+/*This comment is added just to trigger a build from jenkins*/
     private static final String NEW_LINE = System.getProperty("line.separator");
 
     public Cell[][] loadFrom(final String gridContents) {
